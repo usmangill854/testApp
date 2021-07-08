@@ -1,0 +1,5 @@
+cls
+git add
+git commit -m "code commited"
+git push origin master
+git status
